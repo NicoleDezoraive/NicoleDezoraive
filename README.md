@@ -22,6 +22,6 @@
 	<a href="https://vuejs.org/guide/quick-start.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoleDezoraive&show_icons=true&locale=en&layout=compact" alt="NicoleDezoraive" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoleDezoraive&show_icons=true&locale=en" alt="NicoleDezoraive" /></p>
+
 
 
